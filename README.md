@@ -1,1 +1,1 @@
-rapository baru dari pc lokal
+belajar git ignore
